@@ -1,4 +1,4 @@
-# vue-project
+# hello-axios
 
 ## Project setup
 ```

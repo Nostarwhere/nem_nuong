@@ -1,0 +1,119 @@
+{
+  "products": [
+    {
+      "product_image": "https://nemnuonghungviet.com/wp-content/uploads/2021/07/hv-nem-nuong-nha-trang.jpg",
+      "product_name": "Nem nuong Nha Trang",
+      "product_model": "Nem",
+      "product_description": "Rat ngon!",
+      "product_price": 35000,
+      "product_stock": 100
+    },
+    {
+      "product_image": "https://nemnuonghungviet.com/wp-content/uploads/2021/07/hv-nem-nuong-nha-trang.jpg",
+      "product_name": "Banh Trang Tron",
+      "product_model": "BTT",
+      "product_description": "Rat ngon!",
+      "product_price": 70000,
+      "product_stock": 50
+    },
+    {
+      "product_image": "https://nemnuonghungviet.com/wp-content/uploads/2021/07/hv-nem-nuong-nha-trang.jpg",
+      "product_name": "Nem nuong Nha Trang",
+      "product_model": "Nem",
+      "product_description": "Rat ngon!",
+      "product_price": 35000,
+      "product_stock": 100
+    },
+    {
+      "product_image": "https://nemnuonghungviet.com/wp-content/uploads/2021/07/hv-nem-nuong-nha-trang.jpg",
+      "product_name": "Banh Trang Tron",
+      "product_model": "BTT",
+      "product_description": "Rat ngon!",
+      "product_price": 70000,
+      "product_stock": 50
+    },
+    {
+      "product_image": "https://nemnuonghungviet.com/wp-content/uploads/2021/07/hv-nem-nuong-nha-trang.jpg",
+      "product_name": "Nem nuong Nha Trang",
+      "product_model": "Nem",
+      "product_description": "Rat ngon!",
+      "product_price": 35000,
+      "product_stock": 100
+    },
+    {
+      "product_image": "https://nemnuonghungviet.com/wp-content/uploads/2021/07/hv-nem-nuong-nha-trang.jpg",
+      "product_name": "Banh Trang Tron",
+      "product_model": "BTT",
+      "product_description": "Rat ngon!",
+      "product_price": 70000,
+      "product_stock": 50
+    },
+    {
+      "product_image": "https://nemnuonghungviet.com/wp-content/uploads/2021/07/hv-nem-nuong-nha-trang.jpg",
+      "product_name": "Nem nuong Nha Trang",
+      "product_model": "Nem",
+      "product_description": "Rat ngon!",
+      "product_price": 35000,
+      "product_stock": 100
+    },
+    {
+      "product_image": "https://nemnuonghungviet.com/wp-content/uploads/2021/07/hv-nem-nuong-nha-trang.jpg",
+      "product_name": "Banh Trang Tron",
+      "product_model": "BTT",
+      "product_description": "Rat ngon!",
+      "product_price": 70000,
+      "product_stock": 50
+    },
+    {
+      "product_image": "https://nemnuonghungviet.com/wp-content/uploads/2021/07/hv-nem-nuong-nha-trang.jpg",
+      "product_name": "Nem nuong Nha Trang",
+      "product_model": "Nem",
+      "product_description": "Rat ngon!",
+      "product_price": 35000,
+      "product_stock": 100
+    },
+    {
+      "product_image": "https://nemnuonghungviet.com/wp-content/uploads/2021/07/hv-nem-nuong-nha-trang.jpg",
+      "product_name": "Banh Trang Tron",
+      "product_model": "BTT",
+      "product_description": "Rat ngon!",
+      "product_price": 70000,
+      "product_stock": 50
+    }
+  ],
+
+  "hot_products": [
+    {
+      "product_image": "https://nemnuonghungviet.com/wp-content/uploads/2021/07/hv-nem-nuong-nha-trang.jpg",
+      "product_name": "Nem nuong Nha Trang",
+      "product_model": "Nem",
+      "product_description": "Rat ngon!",
+      "product_price": 35000,
+      "product_stock": 100
+    },
+    {
+      "product_image": "https://nemnuonghungviet.com/wp-content/uploads/2021/07/hv-nem-nuong-nha-trang.jpg",
+      "product_name": "Banh Trang Tron",
+      "product_model": "BTT",
+      "product_description": "Rat ngon!",
+      "product_price": 70000,
+      "product_stock": 50
+    },
+    {
+      "product_image": "https://nemnuonghungviet.com/wp-content/uploads/2021/07/hv-nem-nuong-nha-trang.jpg",
+      "product_name": "Nem nuong Nha Trang",
+      "product_model": "Nem",
+      "product_description": "Rat ngon!",
+      "product_price": 35000,
+      "product_stock": 100
+    },
+    {
+      "product_image": "https://nemnuonghungviet.com/wp-content/uploads/2021/07/hv-nem-nuong-nha-trang.jpg",
+      "product_name": "Banh Trang Tron",
+      "product_model": "BTT",
+      "product_description": "Rat ngon!",
+      "product_price": 70000,
+      "product_stock": 50
+    }
+  ]
+}
