@@ -1,6 +1,6 @@
 <template lang="pug">
 div(class="header-top")
-    img(class="cart link" src="../assets/Cart.png", alt="" to="/cart")
+    img(class="cart link" src="@/assets/photos/Cart.png", alt="" to="/cart")
     p Hotline: 1800.88.88.88
 
 div(class="header")
@@ -18,7 +18,7 @@ div(class="header")
             p(class="item-menu") ĐẠI LÝ
 
     div(class="logo")
-        img(alt="Vue logo" src="https://nemnuonghungviet.com/wp-content/uploads/2018/09/logo-hungviet.png")
+        img(alt="Vue logo" src="@/assets/logo/logo.png")
 
     div(class="menu")
         router-link(class="link" to="/news")

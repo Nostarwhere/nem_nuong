@@ -1,18 +1,11 @@
 import { createApp } from 'vue'
-import App from './App.vue'
-import router from './router'
-import unoverlay from 'unoverlay-vue'
-import BootstrapVue3 from 'bootstrap-vue-3'
-import 'bootstrap/dist/css/bootstrap.css'
-import 'bootstrap-vue-3/dist/bootstrap-vue-3.css'
-// import VueAxios from 'vue-axios'
-// import axios from 'axios'
-// import vuex from 'vuex'
+// import App from './App.vue'
+import route from '@/router/route'
+import MainLayout from '@/components/templates/MainLayout.vue'
 
-const app = createApp(App).use(router)
+const app = createApp(MainLayout).use(route)
 app.mount('#app')
-app.use(BootstrapVue3)
-app.use(unoverlay)
-// app.use(VueAxios, { $request: axios })
+
+
 
 

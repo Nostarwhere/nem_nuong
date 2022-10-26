@@ -3,9 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
+    "dev": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "tailwind": "npx tailwindcss -i ./src/input.css -o ./src/assets/css/output.css --watch"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.0",
@@ -23,6 +24,7 @@
     "gulp-install": "^1.1.0",
     "json-server": "^0.17.0",
     "pug": "^3.0.2",
+    "tailwind": "^4.0.0",
     "unoverlay-vue": "^0.2.2",
     "vue": "^3.2.13",
     "vue-cli-plugin-pug": "~2.0.0",
@@ -36,10 +38,13 @@
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-eslint": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
+    "autoprefixer": "^10.4.12",
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^8.0.3",
     "gulp": "^3.9.0",
-    "gulp-pug": "^3.3.0"
+    "gulp-pug": "^3.3.0",
+    "postcss": "^8.4.18",
+    "tailwindcss": "^3.2.1"
   },
   "eslintConfig": {
     "root": true,
